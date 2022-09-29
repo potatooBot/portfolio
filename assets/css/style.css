@@ -472,7 +472,7 @@ main {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  padding: -1 10px;
+  padding: -1px 10px;
 }
 
 .navbar-link {
